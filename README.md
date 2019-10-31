@@ -1,2 +1,2 @@
 # greet
-Js project by imitating jquery code 
+Javascript project by imitating jquery
