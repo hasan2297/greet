@@ -1,5 +1,5 @@
 // gets a new object (the architecture allows us to not have to use the 'new' keyword here)
-var g = G$('John', 'Doe','es');
+var g = G$('John', 'lol','es');
 
 // use our chainable methods
 g.greet(true).log().validate('abcd');
